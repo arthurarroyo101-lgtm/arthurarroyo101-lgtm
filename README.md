@@ -25,6 +25,16 @@
 
 ![Texto da imagem](https://media.licdn.com/dms/image/v2/D4E03AQHOKE9KbdhWTw/profile-displayphoto-scale_400_400/B4EZ4YS5mUHsAg-/0/1778524077021?e=1781136000&v=beta&t=Gjn0fbhMkeJJOwGsmMAeFdpgf3XigDVI64dJIxoLCWQ)
 
+`system.out.println()`
+```system.out.println()system.out.println()system.out.println()system.out.println()system.out.println()```
+
+> Texto da Citação
+
+|Cabeçalho 1|Cabeçalho 2|
+|-----------|-----------|
+|Texto 1    |Texto 2    |
+|Texto 3    |Texto 4    |
+
 <!--
 **arthurarroyo101-lgtm/arthurarroyo101-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
