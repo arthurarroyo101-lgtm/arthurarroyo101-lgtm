@@ -21,6 +21,8 @@
 2. Lista 2
    1. Sublista
 
+[Texto da imagem](https://media.licdn.com/dms/image/v2/D4E03AQHOKE9KbdhWTw/profile-displayphoto-scale_400_400/B4EZ4YS5mUHsAg-/0/1778524077021?e=1781136000&v=beta&t=Gjn0fbhMkeJJOwGsmMAeFdpgf3XigDVI64dJIxoLCWQ)
+
 <!--
 **arthurarroyo101-lgtm/arthurarroyo101-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
