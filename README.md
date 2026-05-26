@@ -35,6 +35,12 @@
 |Texto 1    |Texto 2    |
 |Texto 3    |Texto 4    |
 
+- [x] Tarefa 1
+- [] Tarefa 2
+
+[x] Tarefa 1 <br>
+[] Tarefa 2
+
 <!--
 **arthurarroyo101-lgtm/arthurarroyo101-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
