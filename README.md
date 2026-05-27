@@ -1,7 +1,7 @@
 # Bem-vindos a minha história!
 
-> Me chamo Arthur Cabral, sou estudante de Ciência de Dados e Inteligência Artificial.
-Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
+> Me chamo Arthur Cabral, sou estudante de Ciência de Dados e Inteligência Artificial e investidor.
+Gosto de tecnologia, investimento, programação, e procuro estar sempre estudando para aprender mais.
 
 ### 💻 MINHAS TECNOLOGIAS
 <p align="center">
