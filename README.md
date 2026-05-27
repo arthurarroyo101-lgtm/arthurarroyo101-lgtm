@@ -4,7 +4,9 @@
 Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
 
 ### 💻 MINHAS TECNOLOGIAS
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+</p>
 
 ### 📖 CERTIFICADOS
 |Cursos   | Certificados|
@@ -13,7 +15,7 @@ Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
 |Introdução a Ciência de Dados  |[certificado](https://hermes.dio.me/certificates/32H93YON.pdf)|
 |Introdução à Aceleração Microsoft - Gestão de Dados & IA|[certificado](https://hermes.dio.me/certificates/N5WSAAXK.pdf)|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ### 📫 REDES SOCIAIS
 [Linkedin](https://www.linkedin.com/in/arthur-cabral10/)
