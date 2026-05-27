@@ -1,4 +1,4 @@
-## Sobre mim👋
+<center><h2>Sobre mim👋</h2></center>
 
 <!--
 **arthurarroyo101-lgtm/arthurarroyo101-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
