@@ -2,12 +2,13 @@
 
 > Me chamo Arthur Cabral, sou estudante de Ciência de Dados e Inteligência Artificial.
 Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
-
+|----------------------------------------------------------------------------------------------------------------|
 ### 💻 MINHAS TECNOLOGIAS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 
 ### 📖 CERTIFICADOS
-
+|Cursos
+|CAIXA - Inteligência Artificial na Prática|
 
 
 ### 📫 REDES SOCIAIS
