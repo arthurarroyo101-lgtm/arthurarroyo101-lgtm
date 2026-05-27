@@ -1,6 +1,13 @@
-## Bem-vindos a minha história!
+# Bem-vindos a minha história!
 
-![Gamer confuso](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MiBxdLbIGd73NGht8o9PBg.gif)
+> Me chamo Arthur Cabral, sou estudante de Ciência de Dados e Inteligência Artificial.
+Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
+
+### 📫 MINHAS REDES SOCIAIS
+[Linkedin](https://www.linkedin.com/in/arthur-cabral10/)
+[Instagram](https://www.instagram.com/cabral_thur/
+[Twitter](https://x.com/Cabral_thur)
+
 
 
 <!--
