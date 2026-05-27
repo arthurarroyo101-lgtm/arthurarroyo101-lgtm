@@ -5,7 +5,7 @@ Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
 
 ### 📫 MINHAS REDES SOCIAIS
 [Linkedin](https://www.linkedin.com/in/arthur-cabral10/)
-[Instagram](https://www.instagram.com/cabral_thur/
+[Instagram](https://www.instagram.com/cabral_thur/)
 [Twitter](https://x.com/Cabral_thur)
 
 
