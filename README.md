@@ -16,7 +16,6 @@ Gosto muito de tecnologia e procuro estar sempre estudando para aprender mais.
 |Introdução à Aceleração Microsoft - Gestão de Dados & IA|[certificado](https://hermes.dio.me/certificates/N5WSAAXK.pdf)|
 
 
-
 ### 📫 REDES SOCIAIS
 [Linkedin](https://www.linkedin.com/in/arthur-cabral10/)
 
