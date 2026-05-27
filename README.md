@@ -1,4 +1,7 @@
-<center><h2>Sobre mim👋</h2></center>
+## Bem-vindos a minha história!
+
+![Gamer confuso](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MiBxdLbIGd73NGht8o9PBg.gif)
+
 
 <!--
 **arthurarroyo101-lgtm/arthurarroyo101-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
